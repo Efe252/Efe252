@@ -5,8 +5,7 @@
 - 📫 How to reach me eederagoghene@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hot tea keeps awake better than coffee 
-- 🇯🇵  I love Japan Tech...
-- 🛩️  Zipline drones are sleek
+- 🛩️  Zipline drones 👌
 <!---
 Efe252/Efe252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
